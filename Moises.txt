@@ -1,2 +1,4 @@
 Estudiando sobre git
 Acerca sobre los comandos y su uso
+ 
+ puede ser algo confuso
