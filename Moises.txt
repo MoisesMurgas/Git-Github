@@ -2,3 +2,5 @@ Estudiando sobre git
 Acerca sobre los comandos y su uso
  
  puede ser algo confuso
+When haces tus momos en git: es el futuro oiste viejo
+but se te termina bugeando :'v
